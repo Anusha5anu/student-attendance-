@@ -8,7 +8,7 @@ and Take the student attendance by Class teacher
 **Teacher Login Details**
 
 * Email   : teacher@mail.com
-* Password: (Password on the YouTube video)
+* Password: pass123
 
 
 #
