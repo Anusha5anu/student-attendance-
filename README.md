@@ -10,7 +10,7 @@ and Take the student attendance by Class teacher
 * Email   : teacher@mail.com
 * Password: (Password on the YouTube video)
 
-* Video Link: https://www.youtube.com/watch?v=ra84Xw-dd4Y&t=74s
+
 #
 ![Screenshot (1308)](https://user-images.githubusercontent.com/36708000/173136998-4de6eccc-377f-419e-83b6-e767503bbb5d.png)
 #
